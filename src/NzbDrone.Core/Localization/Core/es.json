@@ -2133,7 +2133,7 @@
     "KeyboardShortcutsSaveSettings": "Guardar ajustes",
     "Keywords": "Palabras clave",
     "ManageFormats": "Gestionar formatos",
-    "MappedNetworkDrivesWindowsService": "Los discos de red mapeados no están disponibles cuando se ejecutan como un servicio de Windows, consulta el [FAQ]({url}) para más información.",
+    "MappedNetworkDrivesWindowsService": "Los unidades de red mapeadas no están disponibles cuando se ejecutan como un servicio de Windows, consulta el [FAQ]({url}) para más información.",
     "MarkAsFailedConfirmation": "¿Estás seguro que quieres marcar '{sourceTitle}' como fallida?",
     "MediaInfoFootNote2": "MediaInfo AudioLanguages excluye el inglés si es el único idioma. Usa MediaInfo AudioLanguagesAll para incluir solo el inglés",
     "MetadataKometaDeprecated": "Los archivos de Kometa no seguirán siendo creados, el soporte se eliminará completamente en la v6",
