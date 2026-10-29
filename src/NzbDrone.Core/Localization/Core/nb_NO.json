@@ -243,7 +243,7 @@
     "EditSelectedDownloadClients": "Nedlastingsklient",
     "Enable": "Aktiver",
     "EnableAutomaticSearch": "Automatisk Søk",
-    "Enabled": "Aktiver",
+    "Enabled": "Aktivert",
     "Events": "Hendelse",
     "ExclusionTitle": "Tittel",
     "ExportCustomFormat": "Legg til egendefinert format",
@@ -426,5 +426,9 @@
     "DeleteSelectedDownloadClients": "Nedlastingsklient",
     "BypassDelayIfAboveCustomFormatScoreMinimumScore": "Egendefinert format",
     "MinimumCustomFormatScore": "Egendefinert format",
-    "Unreleased": "utgivelse"
+    "Unreleased": "utgivelse",
+    "EnableInteractiveSearch": "Aktiver Interaktive Søk",
+    "Ended": "Avsluttet",
+    "HiddenClickToShow": "Skjult, trykk for å vise",
+    "HideAdvanced": "Skjul avanserte"
 }
